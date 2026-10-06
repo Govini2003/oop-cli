@@ -1,0 +1,867 @@
+Configuration:
+Total Tickets: 100
+Customer Rate: 5
+Vendor Rate: 2
+Ticket Pool Capacity: 2
+Number of Vendors: 2
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 2
+Vendor Rate: 3
+Ticket Pool Capacity: 600
+Number of Vendors: 2
+---------------------------------------
+Configuration:
+Total Tickets: 200
+Customer Rate: 2
+Vendor Rate: 3
+Ticket Pool Capacity: 1
+Number of Vendors: 2
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 3
+Vendor Rate: 2
+Ticket Pool Capacity: 2000
+Number of Vendors: 2
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 1
+Vendor Rate: 3
+Ticket Pool Capacity: 2000
+Number of Vendors: 5
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 2
+Vendor Rate: 2
+Ticket Pool Capacity: 600
+Number of Vendors: 2
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 2
+Vendor Rate: 2
+Ticket Pool Capacity: 600
+Number of Vendors: 1
+---------------------------------------
+Configuration:
+Total Tickets: 100
+Customer Rate: 2
+Vendor Rate: 3
+Ticket Pool Capacity: 2000
+Number of Vendors: 2
+---------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 6
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 5000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 6 | Total tickets in pool: 104
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 6 | Total tickets in pool: 102
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 6 | Total tickets in pool: 100
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 6 | Total tickets in pool: 98
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 6 | Total tickets in pool: 96
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 6 | Total tickets in pool: 94
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 6 | Total tickets in pool: 92
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 6 | Total tickets in pool: 90
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 6 | Total tickets in pool: 88
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 6 | Total tickets in pool: 86
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 6 | Total tickets in pool: 84
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 6 | Total tickets in pool: 82
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 6 | Total tickets in pool: 80
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 6 | Total tickets in pool: 78
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 6 | Total tickets in pool: 76
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 6 | Total tickets in pool: 74
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 6 | Total tickets in pool: 72
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 6 | Total tickets in pool: 70
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 6 | Total tickets in pool: 68
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 6 | Total tickets in pool: 66
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 6 | Total tickets in pool: 64
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 6 | Total tickets in pool: 62
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 6 | Total tickets in pool: 60
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 6 | Total tickets in pool: 58
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 6 | Total tickets in pool: 56
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 6 | Total tickets in pool: 54
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 6 | Total tickets in pool: 52
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 6 | Total tickets in pool: 50
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 6 | Total tickets in pool: 48
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 6 | Total tickets in pool: 46
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 6 | Total tickets in pool: 44
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 6 | Total tickets in pool: 42
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 6 | Total tickets in pool: 40
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 6 | Total tickets in pool: 38
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 6 | Total tickets in pool: 36
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 6 | Total tickets in pool: 34
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 6 | Total tickets in pool: 32
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 6 | Total tickets in pool: 30
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 6 | Total tickets in pool: 28
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 6 | Total tickets in pool: 26
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 6 | Total tickets in pool: 24
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 6 | Total tickets in pool: 22
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 6 | Total tickets in pool: 20
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 6 | Total tickets in pool: 18
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 6 | Total tickets in pool: 16
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 6 | Total tickets in pool: 14
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 6 | Total tickets in pool: 12
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 6 | Total tickets in pool: 10
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 6 | Total tickets in pool: 8
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 6 | Total tickets in pool: 6
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 5000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 99 | Tickets added by vendors: 4 | Total tickets in pool: 103
+Time: 2ms | Remaining tickets: 98 | Tickets added by vendors: 4 | Total tickets in pool: 102
+Time: 3ms | Remaining tickets: 97 | Tickets added by vendors: 4 | Total tickets in pool: 101
+Time: 4ms | Remaining tickets: 96 | Tickets added by vendors: 4 | Total tickets in pool: 100
+Time: 5ms | Remaining tickets: 95 | Tickets added by vendors: 4 | Total tickets in pool: 99
+Time: 6ms | Remaining tickets: 94 | Tickets added by vendors: 4 | Total tickets in pool: 98
+Time: 7ms | Remaining tickets: 93 | Tickets added by vendors: 4 | Total tickets in pool: 97
+Time: 8ms | Remaining tickets: 92 | Tickets added by vendors: 4 | Total tickets in pool: 96
+Time: 9ms | Remaining tickets: 91 | Tickets added by vendors: 4 | Total tickets in pool: 95
+Time: 10ms | Remaining tickets: 90 | Tickets added by vendors: 4 | Total tickets in pool: 94
+Time: 11ms | Remaining tickets: 89 | Tickets added by vendors: 4 | Total tickets in pool: 93
+Time: 12ms | Remaining tickets: 88 | Tickets added by vendors: 4 | Total tickets in pool: 92
+Time: 13ms | Remaining tickets: 87 | Tickets added by vendors: 4 | Total tickets in pool: 91
+Time: 14ms | Remaining tickets: 86 | Tickets added by vendors: 4 | Total tickets in pool: 90
+Time: 15ms | Remaining tickets: 85 | Tickets added by vendors: 4 | Total tickets in pool: 89
+Time: 16ms | Remaining tickets: 84 | Tickets added by vendors: 4 | Total tickets in pool: 88
+Time: 17ms | Remaining tickets: 83 | Tickets added by vendors: 4 | Total tickets in pool: 87
+Time: 18ms | Remaining tickets: 82 | Tickets added by vendors: 4 | Total tickets in pool: 86
+Time: 19ms | Remaining tickets: 81 | Tickets added by vendors: 4 | Total tickets in pool: 85
+Time: 20ms | Remaining tickets: 80 | Tickets added by vendors: 4 | Total tickets in pool: 84
+Time: 21ms | Remaining tickets: 79 | Tickets added by vendors: 4 | Total tickets in pool: 83
+Time: 22ms | Remaining tickets: 78 | Tickets added by vendors: 4 | Total tickets in pool: 82
+Time: 23ms | Remaining tickets: 77 | Tickets added by vendors: 4 | Total tickets in pool: 81
+Time: 24ms | Remaining tickets: 76 | Tickets added by vendors: 4 | Total tickets in pool: 80
+Time: 25ms | Remaining tickets: 75 | Tickets added by vendors: 4 | Total tickets in pool: 79
+Time: 26ms | Remaining tickets: 74 | Tickets added by vendors: 4 | Total tickets in pool: 78
+Time: 27ms | Remaining tickets: 73 | Tickets added by vendors: 4 | Total tickets in pool: 77
+Time: 28ms | Remaining tickets: 72 | Tickets added by vendors: 4 | Total tickets in pool: 76
+Time: 29ms | Remaining tickets: 71 | Tickets added by vendors: 4 | Total tickets in pool: 75
+Time: 30ms | Remaining tickets: 70 | Tickets added by vendors: 4 | Total tickets in pool: 74
+Time: 31ms | Remaining tickets: 69 | Tickets added by vendors: 4 | Total tickets in pool: 73
+Time: 32ms | Remaining tickets: 68 | Tickets added by vendors: 4 | Total tickets in pool: 72
+Time: 33ms | Remaining tickets: 67 | Tickets added by vendors: 4 | Total tickets in pool: 71
+Time: 34ms | Remaining tickets: 66 | Tickets added by vendors: 4 | Total tickets in pool: 70
+Time: 35ms | Remaining tickets: 65 | Tickets added by vendors: 4 | Total tickets in pool: 69
+Time: 36ms | Remaining tickets: 64 | Tickets added by vendors: 4 | Total tickets in pool: 68
+Time: 37ms | Remaining tickets: 63 | Tickets added by vendors: 4 | Total tickets in pool: 67
+Time: 38ms | Remaining tickets: 62 | Tickets added by vendors: 4 | Total tickets in pool: 66
+Time: 39ms | Remaining tickets: 61 | Tickets added by vendors: 4 | Total tickets in pool: 65
+Time: 40ms | Remaining tickets: 60 | Tickets added by vendors: 4 | Total tickets in pool: 64
+Time: 41ms | Remaining tickets: 59 | Tickets added by vendors: 4 | Total tickets in pool: 63
+Time: 42ms | Remaining tickets: 58 | Tickets added by vendors: 4 | Total tickets in pool: 62
+Time: 43ms | Remaining tickets: 57 | Tickets added by vendors: 4 | Total tickets in pool: 61
+Time: 44ms | Remaining tickets: 56 | Tickets added by vendors: 4 | Total tickets in pool: 60
+Time: 45ms | Remaining tickets: 55 | Tickets added by vendors: 4 | Total tickets in pool: 59
+Time: 46ms | Remaining tickets: 54 | Tickets added by vendors: 4 | Total tickets in pool: 58
+Time: 47ms | Remaining tickets: 53 | Tickets added by vendors: 4 | Total tickets in pool: 57
+Time: 48ms | Remaining tickets: 52 | Tickets added by vendors: 4 | Total tickets in pool: 56
+Time: 49ms | Remaining tickets: 51 | Tickets added by vendors: 4 | Total tickets in pool: 55
+Time: 50ms | Remaining tickets: 50 | Tickets added by vendors: 4 | Total tickets in pool: 54
+Time: 51ms | Remaining tickets: 49 | Tickets added by vendors: 4 | Total tickets in pool: 53
+Time: 52ms | Remaining tickets: 48 | Tickets added by vendors: 4 | Total tickets in pool: 52
+Time: 53ms | Remaining tickets: 47 | Tickets added by vendors: 4 | Total tickets in pool: 51
+Time: 54ms | Remaining tickets: 46 | Tickets added by vendors: 4 | Total tickets in pool: 50
+Time: 55ms | Remaining tickets: 45 | Tickets added by vendors: 4 | Total tickets in pool: 49
+Time: 56ms | Remaining tickets: 44 | Tickets added by vendors: 4 | Total tickets in pool: 48
+Time: 57ms | Remaining tickets: 43 | Tickets added by vendors: 4 | Total tickets in pool: 47
+Time: 58ms | Remaining tickets: 42 | Tickets added by vendors: 4 | Total tickets in pool: 46
+Time: 59ms | Remaining tickets: 41 | Tickets added by vendors: 4 | Total tickets in pool: 45
+Time: 60ms | Remaining tickets: 40 | Tickets added by vendors: 4 | Total tickets in pool: 44
+Time: 61ms | Remaining tickets: 39 | Tickets added by vendors: 4 | Total tickets in pool: 43
+Time: 62ms | Remaining tickets: 38 | Tickets added by vendors: 4 | Total tickets in pool: 42
+Time: 63ms | Remaining tickets: 37 | Tickets added by vendors: 4 | Total tickets in pool: 41
+Time: 64ms | Remaining tickets: 36 | Tickets added by vendors: 4 | Total tickets in pool: 40
+Time: 65ms | Remaining tickets: 35 | Tickets added by vendors: 4 | Total tickets in pool: 39
+Time: 66ms | Remaining tickets: 34 | Tickets added by vendors: 4 | Total tickets in pool: 38
+Time: 67ms | Remaining tickets: 33 | Tickets added by vendors: 4 | Total tickets in pool: 37
+Time: 68ms | Remaining tickets: 32 | Tickets added by vendors: 4 | Total tickets in pool: 36
+Time: 69ms | Remaining tickets: 31 | Tickets added by vendors: 4 | Total tickets in pool: 35
+Time: 70ms | Remaining tickets: 30 | Tickets added by vendors: 4 | Total tickets in pool: 34
+Time: 71ms | Remaining tickets: 29 | Tickets added by vendors: 4 | Total tickets in pool: 33
+Time: 72ms | Remaining tickets: 28 | Tickets added by vendors: 4 | Total tickets in pool: 32
+Time: 73ms | Remaining tickets: 27 | Tickets added by vendors: 4 | Total tickets in pool: 31
+Time: 74ms | Remaining tickets: 26 | Tickets added by vendors: 4 | Total tickets in pool: 30
+Time: 75ms | Remaining tickets: 25 | Tickets added by vendors: 4 | Total tickets in pool: 29
+Time: 76ms | Remaining tickets: 24 | Tickets added by vendors: 4 | Total tickets in pool: 28
+Time: 77ms | Remaining tickets: 23 | Tickets added by vendors: 4 | Total tickets in pool: 27
+Time: 78ms | Remaining tickets: 22 | Tickets added by vendors: 4 | Total tickets in pool: 26
+Time: 79ms | Remaining tickets: 21 | Tickets added by vendors: 4 | Total tickets in pool: 25
+Time: 80ms | Remaining tickets: 20 | Tickets added by vendors: 4 | Total tickets in pool: 24
+Time: 81ms | Remaining tickets: 19 | Tickets added by vendors: 4 | Total tickets in pool: 23
+Time: 82ms | Remaining tickets: 18 | Tickets added by vendors: 4 | Total tickets in pool: 22
+Time: 83ms | Remaining tickets: 17 | Tickets added by vendors: 4 | Total tickets in pool: 21
+Time: 84ms | Remaining tickets: 16 | Tickets added by vendors: 4 | Total tickets in pool: 20
+Time: 85ms | Remaining tickets: 15 | Tickets added by vendors: 4 | Total tickets in pool: 19
+Time: 86ms | Remaining tickets: 14 | Tickets added by vendors: 4 | Total tickets in pool: 18
+Time: 87ms | Remaining tickets: 13 | Tickets added by vendors: 4 | Total tickets in pool: 17
+Time: 88ms | Remaining tickets: 12 | Tickets added by vendors: 4 | Total tickets in pool: 16
+Time: 89ms | Remaining tickets: 11 | Tickets added by vendors: 4 | Total tickets in pool: 15
+Time: 90ms | Remaining tickets: 10 | Tickets added by vendors: 4 | Total tickets in pool: 14
+Time: 91ms | Remaining tickets: 9 | Tickets added by vendors: 4 | Total tickets in pool: 13
+Time: 92ms | Remaining tickets: 8 | Tickets added by vendors: 4 | Total tickets in pool: 12
+Time: 93ms | Remaining tickets: 7 | Tickets added by vendors: 4 | Total tickets in pool: 11
+Time: 94ms | Remaining tickets: 6 | Tickets added by vendors: 4 | Total tickets in pool: 10
+Time: 95ms | Remaining tickets: 5 | Tickets added by vendors: 4 | Total tickets in pool: 9
+Time: 96ms | Remaining tickets: 4 | Tickets added by vendors: 4 | Total tickets in pool: 8
+Time: 97ms | Remaining tickets: 3 | Tickets added by vendors: 4 | Total tickets in pool: 7
+Time: 98ms | Remaining tickets: 2 | Tickets added by vendors: 4 | Total tickets in pool: 6
+Time: 99ms | Remaining tickets: 1 | Tickets added by vendors: 4 | Total tickets in pool: 5
+Time: 100ms | Remaining tickets: 0 | Tickets added by vendors: 4 | Total tickets in pool: 4
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 3000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 4 | Total tickets in pool: 102
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 4 | Total tickets in pool: 100
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 4 | Total tickets in pool: 98
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 4 | Total tickets in pool: 96
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 4 | Total tickets in pool: 94
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 4 | Total tickets in pool: 92
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 4 | Total tickets in pool: 90
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 4 | Total tickets in pool: 88
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 4 | Total tickets in pool: 86
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 4 | Total tickets in pool: 84
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 4 | Total tickets in pool: 82
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 4 | Total tickets in pool: 80
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 4 | Total tickets in pool: 78
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 4 | Total tickets in pool: 76
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 4 | Total tickets in pool: 74
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 4 | Total tickets in pool: 72
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 4 | Total tickets in pool: 70
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 4 | Total tickets in pool: 68
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 4 | Total tickets in pool: 66
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 4 | Total tickets in pool: 64
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 4 | Total tickets in pool: 62
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 4 | Total tickets in pool: 60
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 4 | Total tickets in pool: 58
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 4 | Total tickets in pool: 56
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 4 | Total tickets in pool: 54
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 4 | Total tickets in pool: 52
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 4 | Total tickets in pool: 50
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 4 | Total tickets in pool: 48
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 4 | Total tickets in pool: 46
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 4 | Total tickets in pool: 44
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 4 | Total tickets in pool: 42
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 4 | Total tickets in pool: 40
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 4 | Total tickets in pool: 38
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 4 | Total tickets in pool: 36
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 4 | Total tickets in pool: 34
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 4 | Total tickets in pool: 32
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 4 | Total tickets in pool: 30
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 4 | Total tickets in pool: 28
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 4 | Total tickets in pool: 26
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 4 | Total tickets in pool: 24
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 4 | Total tickets in pool: 22
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 4 | Total tickets in pool: 20
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 4 | Total tickets in pool: 18
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 4 | Total tickets in pool: 16
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 4 | Total tickets in pool: 14
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 4 | Total tickets in pool: 12
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 4 | Total tickets in pool: 10
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 4 | Total tickets in pool: 8
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 4 | Total tickets in pool: 6
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 4 | Total tickets in pool: 4
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 5000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 6 | Total tickets in pool: 104
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 6 | Total tickets in pool: 102
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 6 | Total tickets in pool: 100
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 6 | Total tickets in pool: 98
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 6 | Total tickets in pool: 96
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 6 | Total tickets in pool: 94
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 6 | Total tickets in pool: 92
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 6 | Total tickets in pool: 90
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 6 | Total tickets in pool: 88
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 6 | Total tickets in pool: 86
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 6 | Total tickets in pool: 84
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 6 | Total tickets in pool: 82
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 6 | Total tickets in pool: 80
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 6 | Total tickets in pool: 78
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 6 | Total tickets in pool: 76
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 6 | Total tickets in pool: 74
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 6 | Total tickets in pool: 72
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 6 | Total tickets in pool: 70
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 6 | Total tickets in pool: 68
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 6 | Total tickets in pool: 66
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 6 | Total tickets in pool: 64
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 6 | Total tickets in pool: 62
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 6 | Total tickets in pool: 60
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 6 | Total tickets in pool: 58
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 6 | Total tickets in pool: 56
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 6 | Total tickets in pool: 54
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 6 | Total tickets in pool: 52
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 6 | Total tickets in pool: 50
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 6 | Total tickets in pool: 48
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 6 | Total tickets in pool: 46
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 6 | Total tickets in pool: 44
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 6 | Total tickets in pool: 42
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 6 | Total tickets in pool: 40
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 6 | Total tickets in pool: 38
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 6 | Total tickets in pool: 36
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 6 | Total tickets in pool: 34
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 6 | Total tickets in pool: 32
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 6 | Total tickets in pool: 30
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 6 | Total tickets in pool: 28
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 6 | Total tickets in pool: 26
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 6 | Total tickets in pool: 24
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 6 | Total tickets in pool: 22
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 6 | Total tickets in pool: 20
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 6 | Total tickets in pool: 18
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 6 | Total tickets in pool: 16
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 6 | Total tickets in pool: 14
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 6 | Total tickets in pool: 12
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 6 | Total tickets in pool: 10
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 6 | Total tickets in pool: 8
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 6 | Total tickets in pool: 6
+Ticketing System History
+Total tickets: 6
+Ticket pool capacity: 5000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 4 | Tickets added by vendors: 6 | Total tickets in pool: 10
+Time: 2ms | Remaining tickets: 2 | Tickets added by vendors: 6 | Total tickets in pool: 8
+Time: 3ms | Remaining tickets: 0 | Tickets added by vendors: 6 | Total tickets in pool: 6
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 4000
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2000
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 4 | Total tickets in pool: 102
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 4 | Total tickets in pool: 100
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 4 | Total tickets in pool: 98
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 4 | Total tickets in pool: 96
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 4 | Total tickets in pool: 94
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 4 | Total tickets in pool: 92
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 4 | Total tickets in pool: 90
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 4 | Total tickets in pool: 88
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 4 | Total tickets in pool: 86
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 4 | Total tickets in pool: 84
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 4 | Total tickets in pool: 82
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 4 | Total tickets in pool: 80
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 4 | Total tickets in pool: 78
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 4 | Total tickets in pool: 76
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 4 | Total tickets in pool: 74
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 4 | Total tickets in pool: 72
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 4 | Total tickets in pool: 70
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 4 | Total tickets in pool: 68
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 4 | Total tickets in pool: 66
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 4 | Total tickets in pool: 64
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 4 | Total tickets in pool: 62
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 4 | Total tickets in pool: 60
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 4 | Total tickets in pool: 58
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 4 | Total tickets in pool: 56
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 4 | Total tickets in pool: 54
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 4 | Total tickets in pool: 52
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 4 | Total tickets in pool: 50
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 4 | Total tickets in pool: 48
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 4 | Total tickets in pool: 46
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 4 | Total tickets in pool: 44
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 4 | Total tickets in pool: 42
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 4 | Total tickets in pool: 40
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 4 | Total tickets in pool: 38
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 4 | Total tickets in pool: 36
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 4 | Total tickets in pool: 34
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 4 | Total tickets in pool: 32
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 4 | Total tickets in pool: 30
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 4 | Total tickets in pool: 28
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 4 | Total tickets in pool: 26
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 4 | Total tickets in pool: 24
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 4 | Total tickets in pool: 22
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 4 | Total tickets in pool: 20
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 4 | Total tickets in pool: 18
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 4 | Total tickets in pool: 16
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 4 | Total tickets in pool: 14
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 4 | Total tickets in pool: 12
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 4 | Total tickets in pool: 10
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 4 | Total tickets in pool: 8
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 4 | Total tickets in pool: 6
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 4 | Total tickets in pool: 4
+Ticketing System History
+Total tickets: 4
+Ticket pool capacity: 2000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 2 | Tickets added by vendors: 4 | Total tickets in pool: 6
+Time: 2ms | Remaining tickets: 0 | Tickets added by vendors: 4 | Total tickets in pool: 4
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 45 | Total tickets in pool: 143
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 45 | Total tickets in pool: 141
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 45 | Total tickets in pool: 139
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 45 | Total tickets in pool: 137
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 45 | Total tickets in pool: 135
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 45 | Total tickets in pool: 133
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 45 | Total tickets in pool: 131
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 45 | Total tickets in pool: 129
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 45 | Total tickets in pool: 127
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 45 | Total tickets in pool: 125
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 45 | Total tickets in pool: 123
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 45 | Total tickets in pool: 121
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 45 | Total tickets in pool: 119
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 45 | Total tickets in pool: 117
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 45 | Total tickets in pool: 115
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 45 | Total tickets in pool: 113
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 45 | Total tickets in pool: 111
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 45 | Total tickets in pool: 109
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 45 | Total tickets in pool: 107
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 45 | Total tickets in pool: 105
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 45 | Total tickets in pool: 103
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 45 | Total tickets in pool: 101
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 45 | Total tickets in pool: 99
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 45 | Total tickets in pool: 97
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 45 | Total tickets in pool: 95
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 45 | Total tickets in pool: 93
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 45 | Total tickets in pool: 91
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 45 | Total tickets in pool: 89
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 45 | Total tickets in pool: 87
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 45 | Total tickets in pool: 85
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 45 | Total tickets in pool: 83
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 45 | Total tickets in pool: 81
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 45 | Total tickets in pool: 79
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 45 | Total tickets in pool: 77
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 45 | Total tickets in pool: 75
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 45 | Total tickets in pool: 73
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 45 | Total tickets in pool: 71
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 45 | Total tickets in pool: 69
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 45 | Total tickets in pool: 67
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 45 | Total tickets in pool: 65
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 45 | Total tickets in pool: 63
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 45 | Total tickets in pool: 61
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 45 | Total tickets in pool: 59
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 45 | Total tickets in pool: 57
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 45 | Total tickets in pool: 55
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 45 | Total tickets in pool: 53
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 45 | Total tickets in pool: 51
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 45 | Total tickets in pool: 49
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 45 | Total tickets in pool: 47
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 45 | Total tickets in pool: 45
+Ticketing System History
+Total tickets: 45
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 43 | Tickets added by vendors: 45 | Total tickets in pool: 88
+Time: 2ms | Remaining tickets: 41 | Tickets added by vendors: 45 | Total tickets in pool: 86
+Time: 3ms | Remaining tickets: 39 | Tickets added by vendors: 45 | Total tickets in pool: 84
+Time: 4ms | Remaining tickets: 37 | Tickets added by vendors: 45 | Total tickets in pool: 82
+Time: 5ms | Remaining tickets: 35 | Tickets added by vendors: 45 | Total tickets in pool: 80
+Time: 6ms | Remaining tickets: 33 | Tickets added by vendors: 45 | Total tickets in pool: 78
+Time: 7ms | Remaining tickets: 31 | Tickets added by vendors: 45 | Total tickets in pool: 76
+Time: 8ms | Remaining tickets: 29 | Tickets added by vendors: 45 | Total tickets in pool: 74
+Time: 9ms | Remaining tickets: 27 | Tickets added by vendors: 45 | Total tickets in pool: 72
+Time: 10ms | Remaining tickets: 25 | Tickets added by vendors: 45 | Total tickets in pool: 70
+Time: 11ms | Remaining tickets: 23 | Tickets added by vendors: 45 | Total tickets in pool: 68
+Time: 12ms | Remaining tickets: 21 | Tickets added by vendors: 45 | Total tickets in pool: 66
+Time: 13ms | Remaining tickets: 19 | Tickets added by vendors: 45 | Total tickets in pool: 64
+Time: 14ms | Remaining tickets: 17 | Tickets added by vendors: 45 | Total tickets in pool: 62
+Time: 15ms | Remaining tickets: 15 | Tickets added by vendors: 45 | Total tickets in pool: 60
+Time: 16ms | Remaining tickets: 13 | Tickets added by vendors: 45 | Total tickets in pool: 58
+Time: 17ms | Remaining tickets: 11 | Tickets added by vendors: 45 | Total tickets in pool: 56
+Time: 18ms | Remaining tickets: 9 | Tickets added by vendors: 45 | Total tickets in pool: 54
+Time: 19ms | Remaining tickets: 7 | Tickets added by vendors: 45 | Total tickets in pool: 52
+Time: 20ms | Remaining tickets: 5 | Tickets added by vendors: 45 | Total tickets in pool: 50
+Time: 21ms | Remaining tickets: 3 | Tickets added by vendors: 45 | Total tickets in pool: 48
+Time: 22ms | Remaining tickets: 1 | Tickets added by vendors: 45 | Total tickets in pool: 46
+Time: 23ms | Remaining tickets: -1 | Tickets added by vendors: 45 | Total tickets in pool: 44
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 600
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 98 | Tickets added by vendors: 15 | Total tickets in pool: 113
+Time: 2ms | Remaining tickets: 96 | Tickets added by vendors: 15 | Total tickets in pool: 111
+Time: 3ms | Remaining tickets: 94 | Tickets added by vendors: 15 | Total tickets in pool: 109
+Time: 4ms | Remaining tickets: 92 | Tickets added by vendors: 15 | Total tickets in pool: 107
+Time: 5ms | Remaining tickets: 90 | Tickets added by vendors: 15 | Total tickets in pool: 105
+Time: 6ms | Remaining tickets: 88 | Tickets added by vendors: 15 | Total tickets in pool: 103
+Time: 7ms | Remaining tickets: 86 | Tickets added by vendors: 15 | Total tickets in pool: 101
+Time: 8ms | Remaining tickets: 84 | Tickets added by vendors: 15 | Total tickets in pool: 99
+Time: 9ms | Remaining tickets: 82 | Tickets added by vendors: 15 | Total tickets in pool: 97
+Time: 10ms | Remaining tickets: 80 | Tickets added by vendors: 15 | Total tickets in pool: 95
+Time: 11ms | Remaining tickets: 78 | Tickets added by vendors: 15 | Total tickets in pool: 93
+Time: 12ms | Remaining tickets: 76 | Tickets added by vendors: 15 | Total tickets in pool: 91
+Time: 13ms | Remaining tickets: 74 | Tickets added by vendors: 15 | Total tickets in pool: 89
+Time: 14ms | Remaining tickets: 72 | Tickets added by vendors: 15 | Total tickets in pool: 87
+Time: 15ms | Remaining tickets: 70 | Tickets added by vendors: 15 | Total tickets in pool: 85
+Time: 16ms | Remaining tickets: 68 | Tickets added by vendors: 15 | Total tickets in pool: 83
+Time: 17ms | Remaining tickets: 66 | Tickets added by vendors: 15 | Total tickets in pool: 81
+Time: 18ms | Remaining tickets: 64 | Tickets added by vendors: 15 | Total tickets in pool: 79
+Time: 19ms | Remaining tickets: 62 | Tickets added by vendors: 15 | Total tickets in pool: 77
+Time: 20ms | Remaining tickets: 60 | Tickets added by vendors: 15 | Total tickets in pool: 75
+Time: 21ms | Remaining tickets: 58 | Tickets added by vendors: 15 | Total tickets in pool: 73
+Time: 22ms | Remaining tickets: 56 | Tickets added by vendors: 15 | Total tickets in pool: 71
+Time: 23ms | Remaining tickets: 54 | Tickets added by vendors: 15 | Total tickets in pool: 69
+Time: 24ms | Remaining tickets: 52 | Tickets added by vendors: 15 | Total tickets in pool: 67
+Time: 25ms | Remaining tickets: 50 | Tickets added by vendors: 15 | Total tickets in pool: 65
+Time: 26ms | Remaining tickets: 48 | Tickets added by vendors: 15 | Total tickets in pool: 63
+Time: 27ms | Remaining tickets: 46 | Tickets added by vendors: 15 | Total tickets in pool: 61
+Time: 28ms | Remaining tickets: 44 | Tickets added by vendors: 15 | Total tickets in pool: 59
+Time: 29ms | Remaining tickets: 42 | Tickets added by vendors: 15 | Total tickets in pool: 57
+Time: 30ms | Remaining tickets: 40 | Tickets added by vendors: 15 | Total tickets in pool: 55
+Time: 31ms | Remaining tickets: 38 | Tickets added by vendors: 15 | Total tickets in pool: 53
+Time: 32ms | Remaining tickets: 36 | Tickets added by vendors: 15 | Total tickets in pool: 51
+Time: 33ms | Remaining tickets: 34 | Tickets added by vendors: 15 | Total tickets in pool: 49
+Time: 34ms | Remaining tickets: 32 | Tickets added by vendors: 15 | Total tickets in pool: 47
+Time: 35ms | Remaining tickets: 30 | Tickets added by vendors: 15 | Total tickets in pool: 45
+Time: 36ms | Remaining tickets: 28 | Tickets added by vendors: 15 | Total tickets in pool: 43
+Time: 37ms | Remaining tickets: 26 | Tickets added by vendors: 15 | Total tickets in pool: 41
+Time: 38ms | Remaining tickets: 24 | Tickets added by vendors: 15 | Total tickets in pool: 39
+Time: 39ms | Remaining tickets: 22 | Tickets added by vendors: 15 | Total tickets in pool: 37
+Time: 40ms | Remaining tickets: 20 | Tickets added by vendors: 15 | Total tickets in pool: 35
+Time: 41ms | Remaining tickets: 18 | Tickets added by vendors: 15 | Total tickets in pool: 33
+Time: 42ms | Remaining tickets: 16 | Tickets added by vendors: 15 | Total tickets in pool: 31
+Time: 43ms | Remaining tickets: 14 | Tickets added by vendors: 15 | Total tickets in pool: 29
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 15 | Total tickets in pool: 27
+Time: 45ms | Remaining tickets: 10 | Tickets added by vendors: 15 | Total tickets in pool: 25
+Time: 46ms | Remaining tickets: 8 | Tickets added by vendors: 15 | Total tickets in pool: 23
+Time: 47ms | Remaining tickets: 6 | Tickets added by vendors: 15 | Total tickets in pool: 21
+Time: 48ms | Remaining tickets: 4 | Tickets added by vendors: 15 | Total tickets in pool: 19
+Time: 49ms | Remaining tickets: 2 | Tickets added by vendors: 15 | Total tickets in pool: 17
+Time: 50ms | Remaining tickets: 0 | Tickets added by vendors: 15 | Total tickets in pool: 15
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 600
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 14 | Tickets added by vendors: 10 | Total tickets in pool: 24
+Time: 2ms | Remaining tickets: 13 | Tickets added by vendors: 10 | Total tickets in pool: 23
+Time: 3ms | Remaining tickets: 12 | Tickets added by vendors: 10 | Total tickets in pool: 22
+Time: 4ms | Remaining tickets: 11 | Tickets added by vendors: 10 | Total tickets in pool: 21
+Time: 5ms | Remaining tickets: 10 | Tickets added by vendors: 10 | Total tickets in pool: 20
+Time: 6ms | Remaining tickets: 9 | Tickets added by vendors: 10 | Total tickets in pool: 19
+Time: 7ms | Remaining tickets: 8 | Tickets added by vendors: 10 | Total tickets in pool: 18
+Time: 8ms | Remaining tickets: 7 | Tickets added by vendors: 10 | Total tickets in pool: 17
+Time: 9ms | Remaining tickets: 6 | Tickets added by vendors: 10 | Total tickets in pool: 16
+Time: 10ms | Remaining tickets: 5 | Tickets added by vendors: 10 | Total tickets in pool: 15
+Time: 11ms | Remaining tickets: 4 | Tickets added by vendors: 10 | Total tickets in pool: 14
+Time: 12ms | Remaining tickets: 3 | Tickets added by vendors: 10 | Total tickets in pool: 13
+Time: 13ms | Remaining tickets: 2 | Tickets added by vendors: 10 | Total tickets in pool: 12
+Time: 14ms | Remaining tickets: 1 | Tickets added by vendors: 10 | Total tickets in pool: 11
+Time: 15ms | Remaining tickets: 0 | Tickets added by vendors: 10 | Total tickets in pool: 10
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 94 | Tickets added by vendors: 20 | Total tickets in pool: 114
+Time: 2ms | Remaining tickets: 88 | Tickets added by vendors: 20 | Total tickets in pool: 108
+Time: 3ms | Remaining tickets: 82 | Tickets added by vendors: 20 | Total tickets in pool: 102
+Time: 4ms | Remaining tickets: 76 | Tickets added by vendors: 20 | Total tickets in pool: 96
+Time: 5ms | Remaining tickets: 70 | Tickets added by vendors: 20 | Total tickets in pool: 90
+Time: 6ms | Remaining tickets: 64 | Tickets added by vendors: 20 | Total tickets in pool: 84
+Time: 7ms | Remaining tickets: 58 | Tickets added by vendors: 20 | Total tickets in pool: 78
+Time: 8ms | Remaining tickets: 52 | Tickets added by vendors: 20 | Total tickets in pool: 72
+Time: 9ms | Remaining tickets: 46 | Tickets added by vendors: 20 | Total tickets in pool: 66
+Time: 10ms | Remaining tickets: 40 | Tickets added by vendors: 20 | Total tickets in pool: 60
+Time: 11ms | Remaining tickets: 34 | Tickets added by vendors: 20 | Total tickets in pool: 54
+Time: 12ms | Remaining tickets: 28 | Tickets added by vendors: 20 | Total tickets in pool: 48
+Time: 13ms | Remaining tickets: 22 | Tickets added by vendors: 20 | Total tickets in pool: 42
+Time: 14ms | Remaining tickets: 16 | Tickets added by vendors: 20 | Total tickets in pool: 36
+Time: 15ms | Remaining tickets: 10 | Tickets added by vendors: 20 | Total tickets in pool: 30
+Time: 16ms | Remaining tickets: 4 | Tickets added by vendors: 20 | Total tickets in pool: 24
+Time: 17ms | Remaining tickets: -2 | Tickets added by vendors: 20 | Total tickets in pool: 18
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 10 | Tickets added by vendors: 9 | Total tickets in pool: 19
+Time: 2ms | Remaining tickets: 2 | Tickets added by vendors: 9 | Total tickets in pool: 11
+Time: 3ms | Remaining tickets: -6 | Tickets added by vendors: 9 | Total tickets in pool: 3
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 2000
+--------------------------------------------------
+Time: 1ms | Remaining tickets: -2 | Tickets added by vendors: 54 | Total tickets in pool: 52
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 95 | Tickets added by vendors: 15 | Total tickets in pool: 110
+Time: 2ms | Remaining tickets: 90 | Tickets added by vendors: 15 | Total tickets in pool: 105
+Time: 3ms | Remaining tickets: 85 | Tickets added by vendors: 15 | Total tickets in pool: 100
+Time: 4ms | Remaining tickets: 80 | Tickets added by vendors: 15 | Total tickets in pool: 95
+Time: 5ms | Remaining tickets: 75 | Tickets added by vendors: 15 | Total tickets in pool: 90
+Time: 6ms | Remaining tickets: 70 | Tickets added by vendors: 15 | Total tickets in pool: 85
+Time: 7ms | Remaining tickets: 65 | Tickets added by vendors: 15 | Total tickets in pool: 80
+Time: 8ms | Remaining tickets: 60 | Tickets added by vendors: 15 | Total tickets in pool: 75
+Time: 9ms | Remaining tickets: 55 | Tickets added by vendors: 15 | Total tickets in pool: 70
+Time: 10ms | Remaining tickets: 50 | Tickets added by vendors: 15 | Total tickets in pool: 65
+Time: 11ms | Remaining tickets: 45 | Tickets added by vendors: 15 | Total tickets in pool: 60
+Time: 12ms | Remaining tickets: 40 | Tickets added by vendors: 15 | Total tickets in pool: 55
+Time: 13ms | Remaining tickets: 35 | Tickets added by vendors: 15 | Total tickets in pool: 50
+Time: 14ms | Remaining tickets: 30 | Tickets added by vendors: 15 | Total tickets in pool: 45
+Time: 15ms | Remaining tickets: 25 | Tickets added by vendors: 15 | Total tickets in pool: 40
+Time: 16ms | Remaining tickets: 20 | Tickets added by vendors: 15 | Total tickets in pool: 35
+Time: 17ms | Remaining tickets: 15 | Tickets added by vendors: 15 | Total tickets in pool: 30
+Time: 18ms | Remaining tickets: 10 | Tickets added by vendors: 15 | Total tickets in pool: 25
+Time: 19ms | Remaining tickets: 5 | Tickets added by vendors: 15 | Total tickets in pool: 20
+Time: 20ms | Remaining tickets: 0 | Tickets added by vendors: 15 | Total tickets in pool: 15
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 95 | Tickets added by vendors: 42 | Total tickets in pool: 137
+Time: 2ms | Remaining tickets: 90 | Tickets added by vendors: 42 | Total tickets in pool: 132
+Time: 3ms | Remaining tickets: 85 | Tickets added by vendors: 42 | Total tickets in pool: 127
+Time: 4ms | Remaining tickets: 80 | Tickets added by vendors: 42 | Total tickets in pool: 122
+Time: 5ms | Remaining tickets: 75 | Tickets added by vendors: 42 | Total tickets in pool: 117
+Time: 6ms | Remaining tickets: 70 | Tickets added by vendors: 42 | Total tickets in pool: 112
+Time: 7ms | Remaining tickets: 65 | Tickets added by vendors: 42 | Total tickets in pool: 107
+Time: 8ms | Remaining tickets: 60 | Tickets added by vendors: 42 | Total tickets in pool: 102
+Time: 9ms | Remaining tickets: 55 | Tickets added by vendors: 42 | Total tickets in pool: 97
+Time: 10ms | Remaining tickets: 50 | Tickets added by vendors: 42 | Total tickets in pool: 92
+Time: 11ms | Remaining tickets: 45 | Tickets added by vendors: 42 | Total tickets in pool: 87
+Time: 12ms | Remaining tickets: 40 | Tickets added by vendors: 42 | Total tickets in pool: 82
+Time: 13ms | Remaining tickets: 35 | Tickets added by vendors: 42 | Total tickets in pool: 77
+Time: 14ms | Remaining tickets: 30 | Tickets added by vendors: 42 | Total tickets in pool: 72
+Time: 15ms | Remaining tickets: 25 | Tickets added by vendors: 42 | Total tickets in pool: 67
+Time: 16ms | Remaining tickets: 20 | Tickets added by vendors: 42 | Total tickets in pool: 62
+Time: 17ms | Remaining tickets: 15 | Tickets added by vendors: 42 | Total tickets in pool: 57
+Time: 18ms | Remaining tickets: 10 | Tickets added by vendors: 42 | Total tickets in pool: 52
+Time: 19ms | Remaining tickets: 5 | Tickets added by vendors: 42 | Total tickets in pool: 47
+Time: 20ms | Remaining tickets: 0 | Tickets added by vendors: 42 | Total tickets in pool: 42
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 37 | Tickets added by vendors: 6 | Total tickets in pool: 43
+Time: 2ms | Remaining tickets: 32 | Tickets added by vendors: 6 | Total tickets in pool: 38
+Time: 3ms | Remaining tickets: 27 | Tickets added by vendors: 6 | Total tickets in pool: 33
+Time: 4ms | Remaining tickets: 22 | Tickets added by vendors: 6 | Total tickets in pool: 28
+Time: 5ms | Remaining tickets: 17 | Tickets added by vendors: 6 | Total tickets in pool: 23
+Time: 6ms | Remaining tickets: 12 | Tickets added by vendors: 6 | Total tickets in pool: 18
+Time: 7ms | Remaining tickets: 7 | Tickets added by vendors: 6 | Total tickets in pool: 13
+Time: 8ms | Remaining tickets: 2 | Tickets added by vendors: 6 | Total tickets in pool: 8
+Time: 9ms | Tickets added by vendors: 6 | Total tickets in pool: 3
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 600
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 95 | Tickets added by vendors: 45 | Total tickets in pool: 140
+Time: 2ms | Remaining tickets: 90 | Tickets added by vendors: 45 | Total tickets in pool: 135
+Time: 3ms | Remaining tickets: 85 | Tickets added by vendors: 45 | Total tickets in pool: 130
+Time: 4ms | Remaining tickets: 80 | Tickets added by vendors: 45 | Total tickets in pool: 125
+Time: 5ms | Remaining tickets: 75 | Tickets added by vendors: 45 | Total tickets in pool: 120
+Time: 6ms | Remaining tickets: 70 | Tickets added by vendors: 45 | Total tickets in pool: 115
+Time: 7ms | Remaining tickets: 65 | Tickets added by vendors: 45 | Total tickets in pool: 110
+Time: 8ms | Remaining tickets: 60 | Tickets added by vendors: 45 | Total tickets in pool: 105
+Time: 9ms | Remaining tickets: 55 | Tickets added by vendors: 45 | Total tickets in pool: 100
+Time: 10ms | Remaining tickets: 50 | Tickets added by vendors: 45 | Total tickets in pool: 95
+Time: 11ms | Remaining tickets: 45 | Tickets added by vendors: 45 | Total tickets in pool: 90
+Time: 12ms | Remaining tickets: 40 | Tickets added by vendors: 45 | Total tickets in pool: 85
+Time: 13ms | Remaining tickets: 35 | Tickets added by vendors: 45 | Total tickets in pool: 80
+Time: 14ms | Remaining tickets: 30 | Tickets added by vendors: 45 | Total tickets in pool: 75
+Time: 15ms | Remaining tickets: 25 | Tickets added by vendors: 45 | Total tickets in pool: 70
+Time: 16ms | Remaining tickets: 20 | Tickets added by vendors: 45 | Total tickets in pool: 65
+Time: 17ms | Remaining tickets: 15 | Tickets added by vendors: 45 | Total tickets in pool: 60
+Time: 18ms | Remaining tickets: 10 | Tickets added by vendors: 45 | Total tickets in pool: 55
+Time: 19ms | Remaining tickets: 5 | Tickets added by vendors: 45 | Total tickets in pool: 50
+Time: 20ms | Remaining tickets: 0 | Tickets added by vendors: 45 | Total tickets in pool: 45
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 600
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 40 | Tickets added by vendors: 56 | Total tickets in pool: 96
+Time: 2ms | Remaining tickets: 35 | Tickets added by vendors: 56 | Total tickets in pool: 91
+Time: 3ms | Remaining tickets: 30 | Tickets added by vendors: 56 | Total tickets in pool: 86
+Time: 4ms | Remaining tickets: 25 | Tickets added by vendors: 56 | Total tickets in pool: 81
+Time: 5ms | Remaining tickets: 20 | Tickets added by vendors: 56 | Total tickets in pool: 76
+Time: 6ms | Remaining tickets: 15 | Tickets added by vendors: 56 | Total tickets in pool: 71
+Time: 7ms | Remaining tickets: 10 | Tickets added by vendors: 56 | Total tickets in pool: 66
+Time: 8ms | Remaining tickets: 5 | Tickets added by vendors: 56 | Total tickets in pool: 61
+Time: 9ms | Remaining tickets: 0 | Tickets added by vendors: 56 | Total tickets in pool: 56
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 600
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 55 | Tickets added by vendors: 48 | Total tickets in pool: 103
+Time: 2ms | Remaining tickets: 54 | Tickets added by vendors: 48 | Total tickets in pool: 102
+Time: 3ms | Remaining tickets: 53 | Tickets added by vendors: 48 | Total tickets in pool: 101
+Time: 4ms | Remaining tickets: 52 | Tickets added by vendors: 48 | Total tickets in pool: 100
+Time: 5ms | Remaining tickets: 51 | Tickets added by vendors: 48 | Total tickets in pool: 99
+Time: 6ms | Remaining tickets: 50 | Tickets added by vendors: 48 | Total tickets in pool: 98
+Time: 7ms | Remaining tickets: 49 | Tickets added by vendors: 48 | Total tickets in pool: 97
+Time: 8ms | Remaining tickets: 48 | Tickets added by vendors: 48 | Total tickets in pool: 96
+Time: 9ms | Remaining tickets: 47 | Tickets added by vendors: 48 | Total tickets in pool: 95
+Time: 10ms | Remaining tickets: 46 | Tickets added by vendors: 48 | Total tickets in pool: 94
+Time: 11ms | Remaining tickets: 45 | Tickets added by vendors: 48 | Total tickets in pool: 93
+Time: 12ms | Remaining tickets: 44 | Tickets added by vendors: 48 | Total tickets in pool: 92
+Time: 13ms | Remaining tickets: 43 | Tickets added by vendors: 48 | Total tickets in pool: 91
+Time: 14ms | Remaining tickets: 42 | Tickets added by vendors: 48 | Total tickets in pool: 90
+Time: 15ms | Remaining tickets: 41 | Tickets added by vendors: 48 | Total tickets in pool: 89
+Time: 16ms | Remaining tickets: 40 | Tickets added by vendors: 48 | Total tickets in pool: 88
+Time: 17ms | Remaining tickets: 39 | Tickets added by vendors: 48 | Total tickets in pool: 87
+Time: 18ms | Remaining tickets: 38 | Tickets added by vendors: 48 | Total tickets in pool: 86
+Time: 19ms | Remaining tickets: 37 | Tickets added by vendors: 48 | Total tickets in pool: 85
+Time: 20ms | Remaining tickets: 36 | Tickets added by vendors: 48 | Total tickets in pool: 84
+Time: 21ms | Remaining tickets: 35 | Tickets added by vendors: 48 | Total tickets in pool: 83
+Time: 22ms | Remaining tickets: 34 | Tickets added by vendors: 48 | Total tickets in pool: 82
+Time: 23ms | Remaining tickets: 33 | Tickets added by vendors: 48 | Total tickets in pool: 81
+Time: 24ms | Remaining tickets: 32 | Tickets added by vendors: 48 | Total tickets in pool: 80
+Time: 25ms | Remaining tickets: 31 | Tickets added by vendors: 48 | Total tickets in pool: 79
+Time: 26ms | Remaining tickets: 30 | Tickets added by vendors: 48 | Total tickets in pool: 78
+Time: 27ms | Remaining tickets: 29 | Tickets added by vendors: 48 | Total tickets in pool: 77
+Time: 28ms | Remaining tickets: 28 | Tickets added by vendors: 48 | Total tickets in pool: 76
+Time: 29ms | Remaining tickets: 27 | Tickets added by vendors: 48 | Total tickets in pool: 75
+Time: 30ms | Remaining tickets: 26 | Tickets added by vendors: 48 | Total tickets in pool: 74
+Time: 31ms | Remaining tickets: 25 | Tickets added by vendors: 48 | Total tickets in pool: 73
+Time: 32ms | Remaining tickets: 24 | Tickets added by vendors: 48 | Total tickets in pool: 72
+Time: 33ms | Remaining tickets: 23 | Tickets added by vendors: 48 | Total tickets in pool: 71
+Time: 34ms | Remaining tickets: 22 | Tickets added by vendors: 48 | Total tickets in pool: 70
+Time: 35ms | Remaining tickets: 21 | Tickets added by vendors: 48 | Total tickets in pool: 69
+Time: 36ms | Remaining tickets: 20 | Tickets added by vendors: 48 | Total tickets in pool: 68
+Time: 37ms | Remaining tickets: 19 | Tickets added by vendors: 48 | Total tickets in pool: 67
+Time: 38ms | Remaining tickets: 18 | Tickets added by vendors: 48 | Total tickets in pool: 66
+Time: 39ms | Remaining tickets: 17 | Tickets added by vendors: 48 | Total tickets in pool: 65
+Time: 40ms | Remaining tickets: 16 | Tickets added by vendors: 48 | Total tickets in pool: 64
+Time: 41ms | Remaining tickets: 15 | Tickets added by vendors: 48 | Total tickets in pool: 63
+Time: 42ms | Remaining tickets: 14 | Tickets added by vendors: 48 | Total tickets in pool: 62
+Time: 43ms | Remaining tickets: 13 | Tickets added by vendors: 48 | Total tickets in pool: 61
+Time: 44ms | Remaining tickets: 12 | Tickets added by vendors: 48 | Total tickets in pool: 60
+Time: 45ms | Remaining tickets: 11 | Tickets added by vendors: 48 | Total tickets in pool: 59
+Time: 46ms | Remaining tickets: 10 | Tickets added by vendors: 48 | Total tickets in pool: 58
+Time: 47ms | Remaining tickets: 9 | Tickets added by vendors: 48 | Total tickets in pool: 57
+Time: 48ms | Remaining tickets: 8 | Tickets added by vendors: 48 | Total tickets in pool: 56
+Time: 49ms | Remaining tickets: 7 | Tickets added by vendors: 48 | Total tickets in pool: 55
+Time: 50ms | Remaining tickets: 6 | Tickets added by vendors: 48 | Total tickets in pool: 54
+Time: 51ms | Remaining tickets: 5 | Tickets added by vendors: 48 | Total tickets in pool: 53
+Time: 52ms | Remaining tickets: 4 | Tickets added by vendors: 48 | Total tickets in pool: 52
+Time: 53ms | Remaining tickets: 3 | Tickets added by vendors: 48 | Total tickets in pool: 51
+Time: 54ms | Remaining tickets: 2 | Tickets added by vendors: 48 | Total tickets in pool: 50
+Time: 55ms | Remaining tickets: 1 | Tickets added by vendors: 48 | Total tickets in pool: 49
+Time: 56ms | Remaining tickets: 0 | Tickets added by vendors: 48 | Total tickets in pool: 48
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 800
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 94 | Tickets added by vendors: 20 | Total tickets in pool: 114
+Time: 2ms | Remaining tickets: 88 | Tickets added by vendors: 20 | Total tickets in pool: 108
+Time: 3ms | Remaining tickets: 82 | Tickets added by vendors: 20 | Total tickets in pool: 102
+Time: 4ms | Remaining tickets: 76 | Tickets added by vendors: 20 | Total tickets in pool: 96
+Time: 5ms | Remaining tickets: 70 | Tickets added by vendors: 20 | Total tickets in pool: 90
+Time: 6ms | Remaining tickets: 64 | Tickets added by vendors: 20 | Total tickets in pool: 84
+Time: 7ms | Remaining tickets: 58 | Tickets added by vendors: 20 | Total tickets in pool: 78
+Time: 8ms | Remaining tickets: 52 | Tickets added by vendors: 20 | Total tickets in pool: 72
+Time: 9ms | Remaining tickets: 46 | Tickets added by vendors: 20 | Total tickets in pool: 66
+Time: 10ms | Remaining tickets: 40 | Tickets added by vendors: 20 | Total tickets in pool: 60
+Time: 11ms | Remaining tickets: 34 | Tickets added by vendors: 20 | Total tickets in pool: 54
+Time: 12ms | Remaining tickets: 28 | Tickets added by vendors: 20 | Total tickets in pool: 48
+Time: 13ms | Remaining tickets: 22 | Tickets added by vendors: 20 | Total tickets in pool: 42
+Time: 14ms | Remaining tickets: 16 | Tickets added by vendors: 20 | Total tickets in pool: 36
+Time: 15ms | Remaining tickets: 10 | Tickets added by vendors: 20 | Total tickets in pool: 30
+Time: 16ms | Remaining tickets: 4 | Tickets added by vendors: 20 | Total tickets in pool: 24
+Time: 17ms | Tickets added by vendors: 20 | Total tickets in pool: 18
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 800
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 16 | Tickets added by vendors: 56 | Total tickets in pool: 72
+Time: 2ms | Remaining tickets: 14 | Tickets added by vendors: 56 | Total tickets in pool: 70
+Time: 3ms | Remaining tickets: 12 | Tickets added by vendors: 56 | Total tickets in pool: 68
+Time: 4ms | Remaining tickets: 10 | Tickets added by vendors: 56 | Total tickets in pool: 66
+Time: 5ms | Remaining tickets: 8 | Tickets added by vendors: 56 | Total tickets in pool: 64
+Time: 6ms | Remaining tickets: 6 | Tickets added by vendors: 56 | Total tickets in pool: 62
+Time: 7ms | Remaining tickets: 4 | Tickets added by vendors: 56 | Total tickets in pool: 60
+Time: 8ms | Remaining tickets: 2 | Tickets added by vendors: 56 | Total tickets in pool: 58
+Time: 9ms | Remaining tickets: 0 | Tickets added by vendors: 56 | Total tickets in pool: 56
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 800
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 54 | Tickets added by vendors: 36 | Total tickets in pool: 90
+Time: 2ms | Remaining tickets: 52 | Tickets added by vendors: 36 | Total tickets in pool: 88
+Time: 3ms | Remaining tickets: 50 | Tickets added by vendors: 36 | Total tickets in pool: 86
+Time: 4ms | Remaining tickets: 48 | Tickets added by vendors: 36 | Total tickets in pool: 84
+Time: 5ms | Remaining tickets: 46 | Tickets added by vendors: 36 | Total tickets in pool: 82
+Time: 6ms | Remaining tickets: 44 | Tickets added by vendors: 36 | Total tickets in pool: 80
+Time: 7ms | Remaining tickets: 42 | Tickets added by vendors: 36 | Total tickets in pool: 78
+Time: 8ms | Remaining tickets: 40 | Tickets added by vendors: 36 | Total tickets in pool: 76
+Time: 9ms | Remaining tickets: 38 | Tickets added by vendors: 36 | Total tickets in pool: 74
+Time: 10ms | Remaining tickets: 36 | Tickets added by vendors: 36 | Total tickets in pool: 72
+Time: 11ms | Remaining tickets: 34 | Tickets added by vendors: 36 | Total tickets in pool: 70
+Time: 12ms | Remaining tickets: 32 | Tickets added by vendors: 36 | Total tickets in pool: 68
+Time: 13ms | Remaining tickets: 30 | Tickets added by vendors: 36 | Total tickets in pool: 66
+Time: 14ms | Remaining tickets: 28 | Tickets added by vendors: 36 | Total tickets in pool: 64
+Time: 15ms | Remaining tickets: 26 | Tickets added by vendors: 36 | Total tickets in pool: 62
+Time: 16ms | Remaining tickets: 24 | Tickets added by vendors: 36 | Total tickets in pool: 60
+Time: 17ms | Remaining tickets: 22 | Tickets added by vendors: 36 | Total tickets in pool: 58
+Time: 18ms | Remaining tickets: 20 | Tickets added by vendors: 36 | Total tickets in pool: 56
+Time: 19ms | Remaining tickets: 18 | Tickets added by vendors: 36 | Total tickets in pool: 54
+Time: 20ms | Remaining tickets: 16 | Tickets added by vendors: 36 | Total tickets in pool: 52
+Time: 21ms | Remaining tickets: 14 | Tickets added by vendors: 36 | Total tickets in pool: 50
+Time: 22ms | Remaining tickets: 12 | Tickets added by vendors: 36 | Total tickets in pool: 48
+Time: 23ms | Remaining tickets: 10 | Tickets added by vendors: 36 | Total tickets in pool: 46
+Time: 24ms | Remaining tickets: 8 | Tickets added by vendors: 36 | Total tickets in pool: 44
+Time: 25ms | Remaining tickets: 6 | Tickets added by vendors: 36 | Total tickets in pool: 42
+Time: 26ms | Remaining tickets: 4 | Tickets added by vendors: 36 | Total tickets in pool: 40
+Time: 27ms | Remaining tickets: 2 | Tickets added by vendors: 36 | Total tickets in pool: 38
+Time: 28ms | Remaining tickets: 0 | Tickets added by vendors: 36 | Total tickets in pool: 36
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 5
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 4
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 4
+--------------------------------------------------
+Ticketing System History
+Total tickets: 100
+Ticket pool capacity: 500
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 95 | Tickets added by vendors: 12 | Total tickets in pool: 107
+Time: 2ms | Remaining tickets: 90 | Tickets added by vendors: 12 | Total tickets in pool: 102
+Time: 3ms | Remaining tickets: 85 | Tickets added by vendors: 12 | Total tickets in pool: 97
+Time: 4ms | Remaining tickets: 80 | Tickets added by vendors: 12 | Total tickets in pool: 92
+Time: 5ms | Remaining tickets: 75 | Tickets added by vendors: 12 | Total tickets in pool: 87
+Time: 6ms | Remaining tickets: 70 | Tickets added by vendors: 12 | Total tickets in pool: 82
+Time: 7ms | Remaining tickets: 65 | Tickets added by vendors: 12 | Total tickets in pool: 77
+Time: 8ms | Remaining tickets: 60 | Tickets added by vendors: 12 | Total tickets in pool: 72
+Time: 9ms | Remaining tickets: 55 | Tickets added by vendors: 12 | Total tickets in pool: 67
+Time: 10ms | Remaining tickets: 50 | Tickets added by vendors: 12 | Total tickets in pool: 62
+Time: 11ms | Remaining tickets: 45 | Tickets added by vendors: 12 | Total tickets in pool: 57
+Time: 12ms | Remaining tickets: 40 | Tickets added by vendors: 12 | Total tickets in pool: 52
+Time: 13ms | Remaining tickets: 35 | Tickets added by vendors: 12 | Total tickets in pool: 47
+Time: 14ms | Remaining tickets: 30 | Tickets added by vendors: 12 | Total tickets in pool: 42
+Time: 15ms | Remaining tickets: 25 | Tickets added by vendors: 12 | Total tickets in pool: 37
+Time: 16ms | Remaining tickets: 20 | Tickets added by vendors: 12 | Total tickets in pool: 32
+Time: 17ms | Remaining tickets: 15 | Tickets added by vendors: 12 | Total tickets in pool: 27
+Time: 18ms | Remaining tickets: 10 | Tickets added by vendors: 12 | Total tickets in pool: 22
+Time: 19ms | Remaining tickets: 5 | Tickets added by vendors: 12 | Total tickets in pool: 17
+Time: 20ms | Remaining tickets: 0 | Tickets added by vendors: 12 | Total tickets in pool: 12
+Ticketing System History
+Total tickets: 3
+Ticket pool capacity: 100
+--------------------------------------------------
+Time: 1ms | Remaining tickets: 2 | Tickets added by vendors: 6 | Total tickets in pool: 8
+Time: 2ms | Remaining tickets: 1 | Tickets added by vendors: 6 | Total tickets in pool: 7
+Time: 3ms | Remaining tickets: 0 | Tickets added by vendors: 6 | Total tickets in pool: 6
+Ticketing System History
+Total tickets: 1
+Ticket pool capacity: 2
+--------------------------------------------------
